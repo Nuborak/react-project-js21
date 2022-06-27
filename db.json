@@ -1,3 +1,11 @@
 {
-  "products": []
+  "products": [
+    {
+      "title": "apple",
+      "description": "iphone 10",
+      "price": 1000,
+      "image": "https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP770/iphonex.png",
+      "id": 2
+    }
+  ]
 }
